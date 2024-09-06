@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 # bundle install
-# bundle exec jekyll serve
-title: deLemus # the  bundle exec jekyll serve --lsiwebsite title (if blank, full name will be used instead)
+# bundle exec jekyll serve --lsi
+title: deLemus # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name:
 last_name:
