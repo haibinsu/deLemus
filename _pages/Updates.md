@@ -65,7 +65,7 @@ $(document).ready(function(){
   {% include figure.html path="assets/img/update_2409/2024-09.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
-  <strong>2024.08.29-2024.09.06</strong>
+  <strong>2024.08.29-2024.09.11</strong>
   <hr>
   {% include figure.html path="assets/img/update_2409/confirmed_202409.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
