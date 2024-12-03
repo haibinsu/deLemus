@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-05-23 00:00:00
+date: 2024-11-12 12:30:00
 inline: true
 related_posts: false
 ---
 
-<a href="{{ '/KP.2/' | relative_url }}" style="color: inherit;">KP.2's information is available.</a>
+<a href="{{ '/Updates/' | relative_url }}" style="color: inherit;">Variants information of latest outlined mutations that are confirmed in VOC/emerging variants are updated.</a>
 

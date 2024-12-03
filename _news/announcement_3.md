@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-11-12 12:30:00
+date: 2024-12-01 00:00:00
 inline: true
 related_posts: false
 ---
 
-<a href="{{ '/Updates/' | relative_url }}" style="color: inherit;">Variants information of latest outlined mutations that are confirmed in VOC/emerging variants are updated!</a>
+<a href="{{ '/Updates/' | relative_url }}" style="color: inherit;">Outlined mutations of 2024.12 are updated!</a>
 
